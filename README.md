@@ -24,14 +24,10 @@
 ### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=
-     html,css,js,react,tailwind,
-     nextjs,nodejs,npm,figma,vscode,
-     git,docker,jenkins,aws"
-     />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,npm,figma,vscode,git,docker,jenkins,aws"/>
     
   </a>
 </p>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,npm,figma,vscode,git,docker,jenkins,aws&perline=4)](https://skillicons.dev)
 <br>
 ⭐️ From [javed](https://github.com/javedkhan07)
