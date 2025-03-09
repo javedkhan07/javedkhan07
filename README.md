@@ -26,9 +26,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=
      html,css,js,react,tailwind,
-     <br>
      nextjs,nodejs,npm,figma,vscode,
-     <br>
      git,docker,jenkins,aws"
      />
     
