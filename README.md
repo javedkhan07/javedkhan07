@@ -21,4 +21,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/javedkhan07)
+⭐️ From [javed](https://github.com/javedkhan07)
