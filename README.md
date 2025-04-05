@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Javed Khan</h1>
 
 - 🔭 I’m currently working on WebD
-- 🌱 I’m currently learning Fullstack
+- 🌱 I’m  Fullstack DEV
 - 💬 Ask me anything about Webd 
 - 📫 How to reach me: mohammadjaved476221@gmail.com
 - 😄 My website:------
-- ⚡ Fun fact: I'm comming to teen
+
   
 ### Connect with me:
 <div id="badges">
